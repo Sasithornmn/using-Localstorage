@@ -1,0 +1,33 @@
+[
+    {
+        "imgSrc": "https://s359.kapook.com//pagebuilder/9dbc7505-3b39-4b7f-85b4-1c88c2a01e7f.jpg",
+        "name": "Stir fried with chilli curry paste",
+        "price": "$12.00"
+    },
+    {
+        "imgSrc": "https://s359.kapook.com//pagebuilder/6ef91549-ce57-47d6-88db-3ca0c16d1b9e.jpg",
+        "name": "Stir-fried vegetables",
+        "price": "$15.00"
+    },
+    {
+        "imgSrc": "https://s359.kapook.com//pagebuilder/efa12ebe-add1-4348-bbae-0adf4f4766c7.jpg",
+        "name": "Stir Fried Squid with Curry",
+        "price": "$12.00"
+    },
+    {
+        "imgSrc": "https://s359.kapook.com//pagebuilder/7d2111b0-1a61-4196-a0fe-f77eb122612f.jpg",
+        "name": "Garlic Pepper Pork",
+        "price": "$10.00"
+    },
+    {
+        "imgSrc": "https://s359.kapook.com//pagebuilder/be069ecc-e276-404b-a1b5-1cfe75eda891.jpg",
+        "name": "Spaghetti with Spicy",
+        "price": "$20.00"
+    },
+    {
+        "imgSrc": "https://s359.kapook.com//pagebuilder/ed4e96ec-3cb1-47cf-9eac-f5363b060a0e.jpg",
+        "name": "Sukiyaki",
+        "price": "$15.00"
+    }
+
+]
